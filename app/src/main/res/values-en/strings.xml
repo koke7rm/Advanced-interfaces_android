@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica7</string>
+    <string name="introduce_web1">Enter address for web 1</string>
+    <string name="ejemplo_pag1">Ejm: www.google.es</string>
+    <string name="introduce_web2">Enter address for web 2</string>
+    <string name="ejemplo_pag2">Ejm: www.google.es</string>
+    <string name="boton_cambiar_web">change web address </string>
+
+    <string-array name="pantallas">
+        <item> Main</item>
+        <item> Web1</item>
+        <item>Web2</item>
+        <item>Facebook</item>
+        <item>Exit</item>
+    </string-array>
+
+</resources>

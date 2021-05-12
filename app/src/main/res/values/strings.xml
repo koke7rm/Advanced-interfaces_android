@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica7</string>
+    <string name="introduce_web1">Introduce dirección para la web 1</string>
+    <string name="ejemplo_pag1">Ejm: www.google.es</string>
+    <string name="introduce_web2">Introduce dirección para la web 2</string>
+    <string name="ejemplo_pag2">Ejm: www.google.es</string>
+    <string name="boton_cambiar_web">cambiar página web</string>
+
+    <string-array name="pantallas">
+        <item> Inicio</item>
+        <item> Web1</item>
+        <item>Web2</item>
+        <item>Facebook</item>
+        <item>Salir</item>
+    </string-array>
+</resources>
